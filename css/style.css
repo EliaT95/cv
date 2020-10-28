@@ -1,0 +1,19 @@
+
+
+  body {
+    background-color: #EAF6F6;
+    text-align: left;
+    font-family: Georgia, serif;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #d2d3c9;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  table {
+    text-align: left;
+  }
