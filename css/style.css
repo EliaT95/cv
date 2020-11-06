@@ -41,6 +41,6 @@ body{
 /* Title image */
 .title-image {
   width: 50%;
-  right: 30%;
-  padding: 18px 18px;
+  right: 50%;
+  border-radius: 50%;
 }
