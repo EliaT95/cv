@@ -43,4 +43,22 @@ body{
   width: 50%;
   right: 50%;
   border-radius: 50%;
+  padding: 20px 20px 20px;
+  position: absolute;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+/* Profile Description */
+.big-heading {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 2.5;
+  text-align: center;
 }
