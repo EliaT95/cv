@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Curriculum Vitae",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliaT95/cv.git"
+  },
+  "author": "EliaT95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliaT95/cv/issues"
+  },
+  "homepage": "https://github.com/EliaT95/cv#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
