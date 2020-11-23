@@ -45,3 +45,19 @@
 	font-size: 12px;
   color: #fff;
 }
+
+/* Title section */
+
+.title-image {
+  width: 50%;
+  position: static;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-family: 'Ubuntu', sans-serif;
+}
