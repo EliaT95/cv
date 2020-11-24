@@ -61,3 +61,43 @@
   line-height: 1.5;
   font-family: 'Ubuntu', sans-serif;
 }
+
+.hello-there{
+  font-size: 0.5rem;
+  color: red;
+  font-family: "Ubuntu", sans-serif;
+}
+
+/* Social icon style */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  color: white;
+}
+
+.fa-github{
+  color: black;
+}
+
+.fa-linkedin {
+  color: white;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
