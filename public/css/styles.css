@@ -1,10 +1,16 @@
-.container-fluid {
-    padding-top: 70px;
-    padding-bottom: 70px;
+
+body{
+  text-align: center;
 }
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* NAVBAR */
+
 .navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
+  padding: 0 0 4.5rem;
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
@@ -12,15 +18,13 @@
     letter-spacing: 5px;
     font-family: 'Ubuntu', sans-serif;
 }
+
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
 }
 
-.contact{
-  background-color: #40a8c4;
-  font-family: 'Ubuntu', sans-serif;
-  color: #fff;
-}
+
+/* Sections */
 
 .colored-section{
   color: #fff;
@@ -34,8 +38,12 @@
   text-align: center;
 }
 
+
+/* FOOTER */
+
 .footer-padding {
-	padding-bottom: 60px;
+	padding-bott
+  om: 60px;
 }
 
 .footer {
@@ -53,14 +61,19 @@
   color: #fff;
 }
 
-/* Title section */
+/* Home Page */
+
+#home-page{
+  text-align: right;
+}
+#home-page .container-fluid {
+  padding: 3% 15% 7%;
+}
 
 .title-image {
-  width: 50%;
-  position: static;
-  padding-left: 100px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  width: 65%;
+  position: absolute;
+  right: 30%;
 }
 
 .title{
@@ -80,26 +93,12 @@
   width: 30px;
   text-align: center;
   text-decoration: none;
+  color: black;
 }
 
 /* Add a hover effect */
 .fa:hover {
   opacity: 0.7;
-}
-
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
-  color: black;
-}
-
-.fa-github{
-color: black;
-}
-
-.fa-linkedin {
-  color: black;
 }
 
 .social-icon {
