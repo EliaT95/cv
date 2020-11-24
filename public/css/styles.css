@@ -71,11 +71,10 @@
 /* Social icon style */
 .fa {
   padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  font-size: 50px;
+  width: 30px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
 }
 
 /* Add a hover effect */
@@ -87,15 +86,15 @@
 
 /* Facebook */
 .fa-facebook {
-  color: white;
-}
-
-.fa-github{
   color: black;
 }
 
+.fa-github{
+color: black;
+}
+
 .fa-linkedin {
-  color: white;
+  color: black;
 }
 
 .social-icon {
