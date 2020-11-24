@@ -25,6 +25,13 @@
 .colored-section{
   color: #fff;
   background-color: #40a8c4;
+  text-align: center;
+}
+
+.uncolored-section{
+  color: black;
+  background-color: white;
+  text-align: center;
 }
 
 .footer-padding {
@@ -56,16 +63,14 @@
   padding-bottom: 50px;
 }
 
+.title{
+  padding-left: 2px;
+  padding-right: 5px;
+}
 .big-heading {
   font-size: 3.5rem;
   line-height: 1.5;
   font-family: 'Ubuntu', sans-serif;
-}
-
-.hello-there{
-  font-size: 0.5rem;
-  color: red;
-  font-family: "Ubuntu", sans-serif;
 }
 
 /* Social icon style */
